@@ -26,7 +26,7 @@ Follow these instructions to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/login-signup-switching-form.git
+   git clone https://github.com/abdul-1432/Login-Sing-Up_Form
    ```
 
 2. **Navigate to the project directory:**

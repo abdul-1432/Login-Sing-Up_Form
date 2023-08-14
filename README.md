@@ -15,9 +15,7 @@ The Login and Signup Switching Form is a simple and user-friendly authentication
 
 Here's a quick demo of the Login and Signup Switching Form:
 
-![Demo Gif](demo.gif) _(Replace with your own demo GIF or video)_
-
-You can also try out the live demo [here](https://your-demo-link.com).
+You can also try out the live demo [here](https://codepen.io/abdul-1432/pen/XWyvZNb).
 
 ## Getting Started
 

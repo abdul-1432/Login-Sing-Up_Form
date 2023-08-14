@@ -1,6 +1,7 @@
 # Login and Signup Switching Form
 
-![Project Logo](project_logo.png) _(Replace with your own project logo)_
+![1](https://github.com/abdul-1432/Login-Sing-Up_Form/assets/124916666/aa34bf8f-a031-4589-848c-97d4157cb667)
+
 
 The Login and Signup Switching Form is a simple and user-friendly authentication system that provides a smooth transition between the login and signup processes. This project aims to enhance the user experience by offering a seamless way for users to switch between logging into an existing account and creating a new account. The project is built using [technologies/frameworks used, e.g., HTML, CSS, JavaScript, etc.].
 

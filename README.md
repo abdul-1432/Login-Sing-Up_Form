@@ -17,7 +17,7 @@ The Login and Signup Switching Form is a simple and user-friendly authentication
 
 Here's a quick demo of the Login and Signup Switching Form:
 
-You can also try out the live demo [here](https://codepen.io/abdul-1432/pen/XWyvZNb).
+You can also try the live demo [here](https://codepen.io/abdul-1432/pen/XWyvZNb).
 
 ## Getting Started
 
